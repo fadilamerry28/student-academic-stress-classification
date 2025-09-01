@@ -30,8 +30,6 @@ The goal is to understand **which factors contribute most** to academic stress a
 * **Medium Stress**: Model struggles, recall = 0% (class imbalance issue)
 * **High Stress**: Precision & Recall = 67%
 
-### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
 ### Feature Importance
 * Academic Competition → **42%**
 * Peer Pressure → **31%**
