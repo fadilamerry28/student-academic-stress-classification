@@ -40,19 +40,6 @@ The goal is to understand **which factors contribute most** to academic stress a
 * **Medium stress** is harder to predict (likely due to fewer samples).
 * **Academic competition** is the biggest factor influencing stress.
 
-## 🚀 How to Run
-
-```bash
-# clone repo
-git clone https://github.com/username/student-stress-classification.git
-cd student-stress-classification
-
-# install dependencies
-pip install -r requirements.txt
-
-# run notebook
-jupyter notebook
-```
 ## 📌 Future Improvements
 
 * Handle **class imbalance** (SMOTE, oversampling, etc.)
